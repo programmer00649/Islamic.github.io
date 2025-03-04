@@ -145,7 +145,7 @@ if($_REQUEST["page"] == "books"){
             </div>
             <div class="mainarea"><?php showBody(); ?></div>
         </div>
-        <div class='footerarea'>طور بواسطة نورين ميديا  © 2015</div>
+        <div class='footerarea'>طور بواسطة محسن  الكرفلة  © 2015</div>
     </body>
 </html>
 
